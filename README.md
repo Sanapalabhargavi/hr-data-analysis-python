@@ -79,7 +79,7 @@ HR Recommendations
 ---
 ---
 
-## 💡 Key Insights
+## 💡 key 
 
 The analysis identified several important factors associated with employee attrition:
 
